@@ -15,4 +15,5 @@ class LoginForm(FlaskForm):
 
 # class FeedbackForm(FlaskForm):
 
-# class DeleteForm(FlaskForm):
+class DeleteForm(FlaskForm):
+        ""
